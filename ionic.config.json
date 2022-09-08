@@ -1,0 +1,7 @@
+{
+  "name": "l'hopital",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
